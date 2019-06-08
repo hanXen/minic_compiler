@@ -1,0 +1,13 @@
+## Minic git ignore ##
+
+# ignore .o fle
+*.o
+
+# ignore .ast file
+*.ast
+
+# ignore ucode file
+*.uco
+
+# ignore lst file
+*.lst
